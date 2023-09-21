@@ -17,7 +17,8 @@
 - Jetson Nano : 로봇을 제어하는 소형 PC
 - Ubuntu 20.04 : 운영체제
 - Python : 로봇 팔 동작
-- OpenCV : 4.5.5.ver(https://opencv.org/releases/)
-- Mediapile, CVzone : 모션 인식 딥러닝 모델(https://developers.google.com/mediapipe)(https://www.computervision.zone/)
+- OpenCV : [4.5.5.ver](https://opencv.org/releases/)
+- Mediapipe, CVzone : 모션 인식 딥러닝 모델
+  [Mediapipe](https://developers.google.com/mediapipe) [CVzone](https://www.computervision.zone/)
 
-#### Notion(https://chief-foxtrot-5cb.notion.site/2022-Project-Robot-Arm-50c512e6e5904394a66155d14d633181?pvs=4")
+#### [Notion](https://chief-foxtrot-5cb.notion.site/2022-Project-Robot-Arm-50c512e6e5904394a66155d14d633181?pvs=4")
